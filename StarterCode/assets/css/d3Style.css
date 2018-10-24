@@ -1,5 +1,5 @@
 .aText {
-  font-family: sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 16px;
   text-anchor: middle;
 }
@@ -31,7 +31,7 @@
 }
 
 .stateCircle {
-  fill: #89bdd3;
+  fill: #11739c;
   stroke: #e3e3e3;
 }
 
